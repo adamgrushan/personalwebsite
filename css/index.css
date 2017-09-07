@@ -4,7 +4,7 @@ html {
   border: 0;
   outline: 0;
   vertical-align: baseline;
-  background: url(http://i.imgur.com/k2RaOES.jpg) no-repeat center center fixed; 
+  background: src= "img/pic01.jpg" no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
