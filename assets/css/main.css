@@ -2833,7 +2833,7 @@
 
 		body.is-touch .tiles article .content {
 			max-height: 15em;
-			opacity: 0;
+			opacity: 1;
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -2848,7 +2848,7 @@
 				}
 			body.is-touch .tiles article .content {
 			max-height: 15em;
-			opacity: 0;
+			opacity: 1;
 		}
 
 		}
@@ -2865,7 +2865,7 @@
 				}
 			body.is-touch .tiles article .content {
 			max-height: 15em;
-			opacity: 0;
+			opacity: 1;
 		}
 
 		}
@@ -2889,7 +2889,7 @@
 					}
 				body.is-touch .tiles article .content {
 			max-height: 15em;
-			opacity: 0;
+			opacity: 1;
 		}
 
 		}
@@ -2906,7 +2906,7 @@
 				}
 			body.is-touch .tiles article .content {
 			max-height: 15em;
-			opacity: 0;
+			opacity: 1;
 		}
 
 		}
