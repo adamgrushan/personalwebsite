@@ -2847,27 +2847,6 @@
 					margin: 1.25em 0 0 1.25em;
 				}
 
-			body:not(.is-touch) .tiles article:hover > .image {
-				-moz-transform: scale(1.1);
-				-webkit-transform: scale(1.1);
-				-ms-transform: scale(1.1);
-				transform: scale(1.1);
-			}
-
-				body:not(.is-touch) .tiles article:hover > .image:before {
-					background-color: #FAFAFA;
-					opacity: 0.75;
-				}
-
-				body:not(.is-touch) .tiles article:hover > .image:after {
-					opacity: 0;
-				}
-
-			body:not(.is-touch) .tiles article:hover .content {
-				max-height: 15em;
-				opacity: 1;
-			}
-
 		}
 
 		@media screen and (max-width: 980px) {
@@ -2880,27 +2859,6 @@
 					width: calc(50% - 2.5em);
 					margin: 2.5em 0 0 2.5em;
 				}
-
-			body:not(.is-touch) .tiles article:hover > .image {
-				-moz-transform: scale(1.1);
-				-webkit-transform: scale(1.1);
-				-ms-transform: scale(1.1);
-				transform: scale(1.1);
-			}
-
-				body:not(.is-touch) .tiles article:hover > .image:before {
-					background-color: #FAFAFA;
-					opacity: 0.75;
-				}
-
-				body:not(.is-touch) .tiles article:hover > .image:after {
-					opacity: 0;
-				}
-
-			body:not(.is-touch) .tiles article:hover .content {
-				max-height: 15em;
-				opacity: 1;
-			}
 
 		}
 
@@ -2922,27 +2880,6 @@
 						transform: scale(1.0);
 					}
 
-				body:not(.is-touch) .tiles article:hover > .image {
-				-moz-transform: scale(1.1);
-				-webkit-transform: scale(1.1);
-				-ms-transform: scale(1.1);
-				transform: scale(1.1);
-			}
-
-				body:not(.is-touch) .tiles article:hover > .image:before {
-					background-color: #FAFAFA;
-					opacity: 0.75;
-				}
-
-				body:not(.is-touch) .tiles article:hover > .image:after {
-					opacity: 0;
-				}
-
-			body:not(.is-touch) .tiles article:hover .content {
-				max-height: 15em;
-				opacity: 1;
-			}
-
 		}
 
 		@media screen and (max-width: 480px) {
@@ -2955,27 +2892,6 @@
 					width: 100%;
 					margin: 1.25em 0 0 0;
 				}
-
-			body:not(.is-touch) .tiles article:hover > .image {
-				-moz-transform: scale(1.1);
-				-webkit-transform: scale(1.1);
-				-ms-transform: scale(1.1);
-				transform: scale(1.1);
-			}
-
-				body:not(.is-touch) .tiles article:hover > .image:before {
-					background-color: #FAFAFA;
-					opacity: 0.75;
-				}
-
-				body:not(.is-touch) .tiles article:hover > .image:after {
-					opacity: 0;
-				}
-
-			body:not(.is-touch) .tiles article:hover .content {
-				max-height: 15em;
-				opacity: 1;
-			}
 
 		}
 
