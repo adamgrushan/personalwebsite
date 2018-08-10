@@ -1651,6 +1651,7 @@
 
 			body, input, select, textarea {
 				font-size: 14pt;
+				opacity: 1;
 			}
 
 		}
@@ -1659,6 +1660,7 @@
 
 			body, input, select, textarea {
 				font-size: 12pt;
+				opacity: 1;
 			}
 
 		}
