@@ -2846,6 +2846,10 @@
 					width: calc(33.33333% - 1.25em);
 					margin: 1.25em 0 0 1.25em;
 				}
+			body.is-touch .tiles article .content {
+			max-height: 15em;
+			opacity: 0;
+		}
 
 		}
 
@@ -2859,6 +2863,10 @@
 					width: calc(50% - 2.5em);
 					margin: 2.5em 0 0 2.5em;
 				}
+			body.is-touch .tiles article .content {
+			max-height: 15em;
+			opacity: 0;
+		}
 
 		}
 
@@ -2879,6 +2887,10 @@
 						-ms-transform: scale(1.0);
 						transform: scale(1.0);
 					}
+				body.is-touch .tiles article .content {
+			max-height: 15em;
+			opacity: 0;
+		}
 
 		}
 
@@ -2892,6 +2904,10 @@
 					width: 100%;
 					margin: 1.25em 0 0 0;
 				}
+			body.is-touch .tiles article .content {
+			max-height: 15em;
+			opacity: 0;
+		}
 
 		}
 
