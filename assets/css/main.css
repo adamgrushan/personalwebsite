@@ -2811,12 +2811,12 @@
 				}
 
 				body:not(.is-touch) .tiles article:hover > .image:after {
-					opacity: 0.5;
+					opacity: 0;
 				}
 
 			body:not(.is-touch) .tiles article:hover .content {
 				max-height: 15em;
-				opacity: 0.5;
+				opacity: 1;
 			}
 
 		* + .tiles {
