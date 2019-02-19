@@ -2828,7 +2828,7 @@
 			-webkit-transform: scale(0.9);
 			-ms-transform: scale(0.9);
 			transform: scale(0.9);
-			opacity: 0;
+			opacity: 1;
 		}
 
 		body.is-touch .tiles article .content {
